@@ -42,7 +42,7 @@
 ---
 
 ### 🏆 **Achievements**
-- 🏅 **Recognized as a Prize Winner** at **WorkIndia** for teamwork and exceptional performance as a Business Analyst.  
+- 🏅 **Awarded as a Revenue Analyst Wizards Award 2024** at **WorkIndia** for teamwork and exceptional performance as a Business Analyst.  
   *(Read more: [LinkedIn Post](https://www.linkedin.com/posts/abhagawande_appreciation-businessanalyst-teamwork-activity-7266443303615631360-7D17))*  
 - 🥇 **Winner** of **Smart India Hackathon 2022** for Maansick project.  
 - 🌟 Recognized as part of **Merkle's Stellar Intern Team** for impactful contributions.
