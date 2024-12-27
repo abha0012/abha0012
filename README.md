@@ -33,7 +33,7 @@
 - 🧠 **[MRI Synthesis via CycleGAN](https://github.com/abha0012/MajorProject_MRI_StyleTransfer)**  
   Trained a CycleGAN for generating artificial MRI images for enhanced medical diagnosis.
 
-- 💙 **[Maansick](https://github.com/abha0012/MaanSick)**  
+- 🧘 **[Maansick](https://github.com/abha0012/MaanSick)**  
   Built a CNN-SVM hybrid model to detect vulnerability to depression using MRI scans.
 
 - 📖 **[Image to Speech Conversion](https://github.com/abha0012/Mini_Project-Image-to-speech-Model)**  
