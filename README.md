@@ -40,4 +40,3 @@
 ---
 
 🌱 I’m currently exploring **data science** and preparing to transition into a **Data Scientist** role.  
-🔭 My dream is to lead projects that shape strategic business decisions and create lasting impacts!  
