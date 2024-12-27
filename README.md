@@ -2,18 +2,19 @@
 <h1 align="center">Hi 👋, I'm Abha Gawande</h1>
 <h3 align="center">Business Analyst | Data Enthusiast | Aspiring Data Scientist</h3>
 
+<!--
 <p align="center">
   <img src="https://img.shields.io/github/followers/abha0012?label=Followers&style=social" alt="GitHub Followers" />
   <img src="https://img.shields.io/github/stars/abha0012?label=Stars&style=social" alt="GitHub Stars" />
 </p>
-
+-->
 ---
 
 ### 👩‍💻 **About Me**
 - 🎓 **B.Tech in Information Technology** | Sardar Patel Institute of Technology, Mumbai  
 - 💼 **Business Analyst** at **WorkIndia**, crafting data-driven solutions for customer retention and revenue growth.  
 - 🌱 Currently exploring **Data Science, AI/ML, and Deep Learning** to transition into a **Data Scientist** role.  
-- 🔭 Aspiring to lead strategic projects that make impactful decisions based on data.
+<!-- - 🔭 Aspiring to lead strategic projects that make impactful decisions based on data. -->
 
 ---
 
